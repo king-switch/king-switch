@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @king-switch
-- 👀 I’m interested in coding
+- 👀 I’m interested in ui/ux design
 - 🌱 I’m currently learning React and React native
 - 💞️ I’m looking to collaborate on any project available
 - 📫 How to reach me patrickibeh7@gmail.com
